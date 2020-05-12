@@ -19,9 +19,6 @@
 		data() {
 			return {
 				title: 'Hello',
-				
-				
-				
 				list:[]
 			}
 		},
