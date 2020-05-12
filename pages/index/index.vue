@@ -15,6 +15,12 @@
 <script>
 	import {getList} from "./indexAPI.js"
 	
+	
+	
+	
+	
+	
+	
 	export default {
 		data() {
 			return {
